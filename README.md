@@ -1,4 +1,9 @@
-### Hi, my name is Yunzhao Li, a student at the University of Toronto majoring in Statistics and Maths.👋My area of interest is data science, and I am really enjoying all the papers and work in this semester. I have a Samoyed by the way.
+### Hi, my name is Yunzhao Li, a student at the University of Toronto majoring in Statistics and Maths.👋
+
+My area of interest is data science, and I am really enjoying all the papers and work in this semester. 
+
+I have a Samoyed by the way.
+
 Enjoy!
 <!--
 **yunzhaol/yunzhaol is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
