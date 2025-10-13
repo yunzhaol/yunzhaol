@@ -4,7 +4,7 @@ My area of interest is data science, and I am really enjoying all the papers and
 
 I have a Samoyed by the way.
 
-“Portfolio → https://yunzhaol.github.io/”
+Portfolio → https://yunzhaol.github.io/
 
 Enjoy!
 <!--
