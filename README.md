@@ -1,6 +1,6 @@
 Hi, my name is Yunzhao Li, a student at the University of Toronto majoring in Statistics and Maths.👋
 
-My area of interest is data science, and I am really enjoying traveling.
+My area of interest is data science, and I really enjoying sports and traveling.
 
 I have a Samoyed by the way.
 
